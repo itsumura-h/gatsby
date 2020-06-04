@@ -3,4 +3,4 @@
 [Gatsby Themeの超入門](https://the2g.com/2967)  
 
 
-https://www.gatsbyjs.org/tutorial/part-three/#-install-and-configure-gatsby-plugin-typography
+https://www.gatsbyjs.org/tutorial/part-five/#build-a-page-with-a-graphql-query
